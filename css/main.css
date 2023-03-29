@@ -1,0 +1,38 @@
+#main_block{
+    width: 20em;
+    height: 20em;
+    /*margin: auto;*/
+    border: black solid 2px;
+    background-color: darkgrey;
+    border-radius: 1em;
+}
+
+#out{
+    text-align: center;
+    font-size: 6em;
+    margin-bottom: 0.25em;
+}
+
+.buttons{
+    margin: auto;
+    border-radius: 1em;
+    width: 7.8em;
+    height: 7.8em;
+}
+
+#button_block{
+    margin: auto;
+}
+
+#but1{
+    background-color: red;
+
+}
+
+#but2{
+    background-color: gray;
+}
+
+#but3{
+    background-color: green;
+}
